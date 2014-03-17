@@ -1,4 +1,4 @@
 Sistema-Gerencial-Minsal
 ========================
 
-Sistema de gestion gerencial
+Proyecto de Sistema de Informacion Gerencial
